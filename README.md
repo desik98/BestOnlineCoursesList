@@ -1,4 +1,4 @@
-# Best Online Courses List  
+# Best Online Courses List
 * **Algorithms and Data Structures**
     * https://www.coursera.org/specializations/data-structures-algorithms 
 * **Database Management Systems**
