@@ -18,6 +18,10 @@
 * **Computer Networks**
     * https://www.cs.swarthmore.edu/~chaganti/cs43/f18/
 
+* **Build a Modern Computer from First Principles**
+    * _Hardware_ - https://www.coursera.org/learn/build-a-computer 
+    * _Software_ - https://www.coursera.org/learn/nand2tetris2 
+
 * **Web Development**
     * _PHP, HTML, CSS, Basic JS_ - https://www.coursera.org/specializations/web-applications
     * _Python and Django Full Stack Web Developer Bootcamp -_ [Paid](https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/) | [Free](https://freecoursesite.com/python-and-django-full-stack-web-developer-bootcamp-1/)
