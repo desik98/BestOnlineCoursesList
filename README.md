@@ -10,7 +10,7 @@
 
 * **Operating Systems**
     * https://www.cs.swarthmore.edu/~kwebb/cs45/s19/
-    * *Building an OS*: https://www.ops-class.org/courses/buffalo/CSE421_Spring2016/
+    * _Building an OS_: https://www.ops-class.org/courses/buffalo/CSE421_Spring2016/
 
 * **Object Oriented Programming**
     * https://www.coursera.org/learn/object-oriented-java
@@ -33,7 +33,7 @@
 
 * **Machine Learning**
     * _Basic_: https://www.coursera.org/learn/machine-learning
-    * *Advanced*: https://www.coursera.org/specializations/aml
+    * _Advanced_: https://www.coursera.org/specializations/aml
 
 * **Data Science** 
     * https://courses.analyticsvidhya.com/courses/take/a-comprehensive-learning-path-to-become-a-data-scientist-in-2019/lessons/6074875-understanding-data-science 
