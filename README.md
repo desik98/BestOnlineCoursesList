@@ -21,9 +21,13 @@
 
 * **Web Development**
     * https://www.coursera.org/specializations/web-applications
+    * _Python and Django Full Stack Web Developer Bootcamp -_ [Paid](https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/) | [Free](https://freecoursesite.com/python-and-django-full-stack-web-developer-bootcamp-1/)
+    * _The Complete Web Developer Course 2.0 -_ [Paid](https://www.udemy.com/the-complete-web-developer-course-2/) | [Free](https://freecoursesite.com/the-complete-web-developer-course-2-0-1/)
+    * _Angular 8 (formerly Angular 2) - The Complete Guide -_ [Paid](https://www.udemy.com/the-complete-guide-to-angular-2/) | [Free](https://freecoursesite.com/angular-4-the-complete-guide-1/)
 
 * **Git**
     * https://www.coursera.org/learn/version-control-with-git
+    * _Git Complete: The definitive, step-by-step guide to Git -_ [Paid](https://www.udemy.com/course/git-complete/) | [Free](https://www.onlinefreecourse.net/git-complete-the-definitive-step-by-step-guide-to-git-udemy-free-download/)
 
 * **Python**
     * https://www.coursera.org/specializations/python
@@ -35,3 +39,6 @@
 * **Data Science** 
     * https://courses.analyticsvidhya.com/courses/take/a-comprehensive-learning-path-to-become-a-data-scientist-in-2019/lessons/6074875-understanding-data-science
     * https://www.coursera.org/specializations/data-science-python
+
+* **Containerization**
+    * _Docker Mastery: The Complete Toolset From a Docker Captain -_ [Paid](https://www.udemy.com/docker-mastery/) | [Free](https://freecoursesite.com/docker-mastery-the-complete-toolset-from-a-docker-captain-1/)
