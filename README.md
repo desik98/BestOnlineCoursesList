@@ -1,6 +1,23 @@
 # Best Online Courses List
+* **Build a Modern Computer from First Principles**
+    * _Hardware_ - https://www.coursera.org/learn/build-a-computer 
+    * _Software_ - https://www.coursera.org/learn/nand2tetris2 
+
 * **Algorithms and Data Structures**
     * https://www.coursera.org/specializations/data-structures-algorithms
+
+* **Web Development**
+    * _PHP, HTML, CSS, Basic JS_ - https://www.coursera.org/specializations/web-applications
+    * _Python and Django Full Stack Web Developer Bootcamp -_ [Paid](https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/) | [Free](https://freecoursesite.com/python-and-django-full-stack-web-developer-bootcamp-1/)
+    * _The Complete Web Developer Course 2.0 -_ [Paid](https://www.udemy.com/the-complete-web-developer-course-2/) | [Free](https://freecoursesite.com/the-complete-web-developer-course-2-0-1/)
+    * _Angular 8 (formerly Angular 2) - The Complete Guide -_ [Paid](https://www.udemy.com/the-complete-guide-to-angular-2/) | [Free](https://freecoursesite.com/angular-4-the-complete-guide-1/)
+
+* **Git**
+    * _Basic_ - https://www.coursera.org/learn/version-control-with-git
+    * _Git Complete: The definitive, step-by-step guide to Git -_ [Paid](https://www.udemy.com/course/git-complete/) | [Free](https://www.onlinefreecourse.net/git-complete-the-definitive-step-by-step-guide-to-git-udemy-free-download/)
+
+* **Object Oriented Programming**
+    * https://www.coursera.org/learn/object-oriented-java
 
 * **Database Management Systems**
     * https://cs145-fa18.github.io/
@@ -12,25 +29,8 @@
     * https://www.cs.swarthmore.edu/~kwebb/cs45/s19/
     * _Building an OS_: https://www.ops-class.org/courses/buffalo/CSE421_Spring2016/
 
-* **Object Oriented Programming**
-    * https://www.coursera.org/learn/object-oriented-java
-
 * **Computer Networks**
     * https://www.cs.swarthmore.edu/~chaganti/cs43/f18/
-
-* **Build a Modern Computer from First Principles**
-    * _Hardware_ - https://www.coursera.org/learn/build-a-computer 
-    * _Software_ - https://www.coursera.org/learn/nand2tetris2 
-
-* **Web Development**
-    * _PHP, HTML, CSS, Basic JS_ - https://www.coursera.org/specializations/web-applications
-    * _Python and Django Full Stack Web Developer Bootcamp -_ [Paid](https://www.udemy.com/python-and-django-full-stack-web-developer-bootcamp/) | [Free](https://freecoursesite.com/python-and-django-full-stack-web-developer-bootcamp-1/)
-    * _The Complete Web Developer Course 2.0 -_ [Paid](https://www.udemy.com/the-complete-web-developer-course-2/) | [Free](https://freecoursesite.com/the-complete-web-developer-course-2-0-1/)
-    * _Angular 8 (formerly Angular 2) - The Complete Guide -_ [Paid](https://www.udemy.com/the-complete-guide-to-angular-2/) | [Free](https://freecoursesite.com/angular-4-the-complete-guide-1/)
-
-* **Git**
-    * _Basic_ - https://www.coursera.org/learn/version-control-with-git
-    * _Git Complete: The definitive, step-by-step guide to Git -_ [Paid](https://www.udemy.com/course/git-complete/) | [Free](https://www.onlinefreecourse.net/git-complete-the-definitive-step-by-step-guide-to-git-udemy-free-download/)
 
 * **Python**
     * https://www.coursera.org/specializations/python
