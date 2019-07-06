@@ -1,5 +1,6 @@
 # Best Online Courses List for CS enthusiasts
 * It's good to do the courses in the order mentioned below.
+* Please feel free to update this list. 
 * **Build a Modern Computer from First Principles**
     * _Hardware_ - https://www.coursera.org/learn/build-a-computer 
     * _Software_ - https://www.coursera.org/learn/nand2tetris2 
