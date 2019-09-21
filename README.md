@@ -15,6 +15,8 @@
     * _Angular 8 (formerly Angular 2) - The Complete Guide -_ [Paid](https://www.udemy.com/the-complete-guide-to-angular-2/) | [Free](https://freecoursesite.com/angular-4-the-complete-guide-1/)
 
 * **Git**
+    * How Git Works(Part-1) - [Paid](https://app.pluralsight.com/library/courses/how-git-works/table-of-contents)
+    * Mastering Git(Part-2) - [Paid](https://app.pluralsight.com/library/courses/mastering-git/table-of-contents)
     * _Basic_ - https://www.coursera.org/learn/version-control-with-git
     * _Git Complete: The definitive, step-by-step guide to Git -_ [Paid](https://www.udemy.com/course/git-complete/) | [Free](https://www.onlinefreecourse.net/git-complete-the-definitive-step-by-step-guide-to-git-udemy-free-download/)
 
@@ -46,5 +48,10 @@
     * https://www.coursera.org/specializations/data-science-python 
 
 * **Containerization**
+    * Docker and Kubernetes: The Big Picture -_ [Paid](https://app.pluralsight.com/library/courses/docker-kubernetes-big-picture/table-of-contents)
+    * Getting Started with Docker -_ [Paid](https://app.pluralsight.com/library/courses/docker-getting-started/table-of-contents)
+    * Docker Deep Dive -_ [Paid](https://app.pluralsight.com/library/courses/docker-deep-dive-update/table-of-contents)
     * _Docker Mastery: The Complete Toolset From a Docker Captain -_ [Paid](https://www.udemy.com/docker-mastery/) | [Free](https://freecoursesite.com/docker-mastery-the-complete-toolset-from-a-docker-captain-1/)
+
+
 
