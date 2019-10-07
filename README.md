@@ -48,3 +48,5 @@
 * **Containerization**
     * _Docker Mastery: The Complete Toolset From a Docker Captain -_ [Paid](https://www.udemy.com/docker-mastery/) | [Free](https://freecoursesite.com/docker-mastery-the-complete-toolset-from-a-docker-captain-1/)
 
+* **Cryptography**
+    * _Cryptography Fundamentals For Developers and Security Professionals -_ https://app.pluralsight.com/library/courses/cryptography-fundamentals-java-dotnet-developers/table-of-contents
